@@ -1,0 +1,6 @@
+{
+  "name": "Verse Community Guide",
+  "description": "Your complete guide to joining the Bitcoin.com Verse Community, connecting your rewards wallet, discovering events, learning new skills, and becoming an active contributor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
